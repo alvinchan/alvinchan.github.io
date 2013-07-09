@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://alvinchan.github.io/sitemap.xml 
